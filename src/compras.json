@@ -1,0 +1,44 @@
+{
+    "compra":[
+        {
+            "nombre":"vestido",
+            "precio": "30"
+        },
+        {
+            "nombre":"pantalon",
+            "precio":"25"
+        },
+        {
+            "nombre":"camisa",
+            "precio":"10"
+        },
+        {
+            "nombre":"reloj",
+            "precio":"75"
+        },
+        {
+            "nombre":"laptop",
+            "precio":"300"
+        },
+        {
+            "nombre":"Equipo de sonido",
+            "precio":"225"
+        },
+        {
+            "nombre":"Televisor",
+            "precio":"500"
+        },
+        {
+            "nombre":"Mesa",
+            "precio":"400"
+        },
+        {
+            "nombre":"Mouse",
+            "precio":"30"
+        },
+        {
+            "nombre":"Teclado",
+            "precio":"20"
+        }
+    ]
+}

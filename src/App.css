@@ -1,0 +1,123 @@
+.App {
+  text-align: center;
+  }
+  .App-logo {
+    height: 40vmin;
+pointer-events: none;
+}
+@media (prefers-reduced-motion: no-preference) {
+.App-logo {
+animation: App-logo-spin infinite 20s linear;
+}
+}
+.App-content {
+background-color:chocolate;
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+font-size: calc(10px + 2vmin);
+color: white;
+}
+.App-link {
+color: #61dafb;
+}
+@keyframes App-logo-spin {
+from {
+transform: rotate(0deg);
+}
+to {
+transform: rotate(360deg);
+}
+}
+form input {
+height: 26px;
+border-radius: 5%;
+display: flex;
+vertical-align: auto;
+}
+form button {
+  
+cursor: pointer;
+display: inline-block;
+text-align: center;
+text-decoration: none;
+margin: 2px 0;
+border: solid 1px transparent;
+border-radius: 4px;
+padding: 0.5em 1em;
+color: #ffffff;
+background-color: darkgreen;
+height: 30px;
+width: 120px;
+}
+
+h2{
+  font-size: 18px;
+  color:black;
+  width: 50px;
+  margin-right: 600px;
+}
+h3 {
+width: 5px;
+margin-top: 5px;
+
+
+}
+/* .separado{
+  display: flex;
+  display: flex-end;
+  flex-direction: column;
+} */
+.list {
+display: flex;
+text-align: center;
+align-items: center;
+margin: 0px;
+width: 800px;
+flex-direction:row;
+
+}
+.input-number{
+  display: flex;
+   text-align:end;
+   width: 80px;
+   margin-left: 58px;
+   flex-direction: row;
+   align-items: flex-end;
+  
+}
+.btn-delete {
+cursor: pointer;
+display: inline-block;
+display: flex;
+text-align: center;
+margin-left: 0px;
+text-decoration: none;
+border: solid 1px transparent;
+border-radius: 4px;
+color: #ffffff;
+background-color: red;
+height: 30px;
+width: 30px;
+}
+.modi-number{
+    width: 60px;
+    font-size: 20px;
+}
+
+.btn-agregar{
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+  
+}
+.todo{
+  height: 50px;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
