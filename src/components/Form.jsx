@@ -204,7 +204,7 @@ return (
      
     } */}
        
-   Total=         ${suma+30+225}
+   Total=         ${suma}
    
   </>
 )
